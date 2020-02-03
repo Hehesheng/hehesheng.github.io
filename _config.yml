@@ -38,11 +38,9 @@ anchorjs: true                          # if you want to customize anchor. check
 
 
 # Gems
+gems: [jekyll-paginate]
 # from PR#40, to support local preview for Jekyll 3.0
-plugins: [jekyll-paginate]
-plugins: [jekyll-mermaid]
-mermaid:
-  src: 'https://cdnjs.cloudflare.com/ajax/libs/mermaid/7.1.0/mermaid.js'
+plugins_dir: [jekyll-paginate]
 
 
 
