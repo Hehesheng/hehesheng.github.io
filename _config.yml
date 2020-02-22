@@ -1,10 +1,10 @@
 # Site settings
-title: HH Blog
-SEOTitle: 紫苑野兽 | HH Blog
+title: Hehesheng Blog
+SEOTitle: 紫苑野兽 | Hehesheng Blog
 header-img: img/post-bg-desk.jpg
 email: hhslzzyyes@gmail.com
 description: "Every failure is leading towards success."
-keyword: "MY Blog, 紫苑野兽, Apple, Stm32, GNU"
+keyword: "MY Blog, 紫苑野兽, Apple, Stm32, GNU, Hehesheng, 单片机, mcu, linux, k210, rt-thread, vscode, risc-v, riscv, 嵌入式"
 url: "http://hehesheng.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/Hehesheng/hehesheng.github.io.git" # you code repository
